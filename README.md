@@ -1,2 +1,2 @@
-# Node-insta-clone
-insta clone api
+# node-instaclone
+first commit of node instaclone
